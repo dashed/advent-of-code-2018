@@ -5,4 +5,4 @@ authors = ["Alberto Leal <mail4alberto@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-image = "0.23.12"
+image = "0.23.14"
