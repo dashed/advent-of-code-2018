@@ -5,4 +5,4 @@ authors = ["Alberto Leal <mail4alberto@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-combine = "3.8.1"
+combine = "4.6.0"
